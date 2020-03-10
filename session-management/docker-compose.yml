@@ -3,7 +3,7 @@ services:
   session-management:
     build: .
     ports:
-      - "3002"
+      - "3032"
       
 networks:
   default:
